@@ -12,4 +12,3 @@
 #bowlers(FAST)
 ![image](https://github.com/user-attachments/assets/b8b8107e-0149-4b44-97ec-3f07c5a80fd7)
 
-#bowlers(slow)
