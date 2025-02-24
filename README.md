@@ -1,6 +1,7 @@
 # CricketAnalysisProject
 
 #rule for top order
+
 ![image](https://github.com/user-attachments/assets/868baf2b-99ea-4824-9c16-d60f95902e63)
 
 # rule for middle order
