@@ -10,7 +10,7 @@
 # lower order
 ![image](https://github.com/user-attachments/assets/53577ef9-2d09-4f5b-8495-df91de57c243)
 
-#bowlers(FAST)
+# bowlers(FAST)
 
 ![image](https://github.com/user-attachments/assets/b8b8107e-0149-4b44-97ec-3f07c5a80fd7)
 
